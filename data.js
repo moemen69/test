@@ -17,7 +17,7 @@ const products = [
     id: 3,
     name: "Velvet Dress",
     description: "Graceful elegance for special occasions.",
-    price: "$720",
+    price: "55 DT",
     image: "assets/3.png"
   },
   {
